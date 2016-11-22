@@ -1,2 +1,3 @@
 # Hello-World
-First project
+
+We are ants living in a neoliberal ant colony.  
